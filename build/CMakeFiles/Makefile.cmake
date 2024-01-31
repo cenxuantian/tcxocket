@@ -28,7 +28,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/Windows-windres.cmake"
   "D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake"
   "D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
-  "D:/User/Desktop/tmc/CMakeLists.txt"
+  "D:/User/Desktop/git_proj/tcxocket/CMakeLists.txt"
   "CMakeFiles/3.26.0-msvc3/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.0-msvc3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.0-msvc3/CMakeRCCompiler.cmake"

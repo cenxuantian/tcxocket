@@ -13,6 +13,6 @@
 #include "tmc_Socket.hpp"
 #include "tmc_Hive.hpp"
 #include "tmc_Bee.hpp"
-#include "tmc_Logger.hpp"
+// #include "tmc_Logger.hpp"
 
 #endif

@@ -1,4 +1,5 @@
-CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
+CMakeFiles/tmc.dir/main.cpp.obj: \
+ D:\User\Desktop\git_proj\tcxocket\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/iostream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/requires_hosted.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -40,6 +41,16 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/type_traits \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/nested_exception.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/char_traits.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/compare \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/concepts \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_construct.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_iterator_base_types.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/iterator_concepts.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ptr_traits.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ranges_cmp.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_iterator_base_funcs.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/concept_check.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/debug/assertions.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/localefwd.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/clocale \
@@ -79,13 +90,8 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/cpp_type_traits.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ostream_insert.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/cxxabi_forced.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_iterator_base_funcs.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/concept_check.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/debug/assertions.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_iterator_base_types.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_iterator.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ext/type_traits.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ptr_traits.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_function.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward/binders.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ext/numeric_traits.h \
@@ -102,9 +108,11 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/basic_string.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ext/alloc_traits.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/alloc_traits.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_construct.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/string_view \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/functional_hash.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ranges_base.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/max_size_type.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/numbers \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/string_view.tcc \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ext/string_conversions.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/cstdlib \
@@ -123,6 +131,7 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/uses_allocator.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/uses_allocator_args.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/tuple \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ranges_util.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/locale_classes.tcc \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/system_error \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
@@ -141,8 +150,9 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ostream.tcc \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/istream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/istream.tcc \
- D:/User/Desktop/tmc/tmc/tmc D:/User/Desktop/tmc/tmc/tmc_ThreadPool.hpp \
- D:/User/Desktop/tmc/tmc/tmc_LockfreeQ.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_ThreadPool.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_LockfreeQ.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/cstdint \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/mingw64/x86_64-w64-mingw32/include/stdint.h \
@@ -151,15 +161,22 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/atomic \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/atomic_base.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/atomic_lockfree_defines.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/atomic_wait.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/std_mutex.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/thread \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/stop_token \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/std_thread.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/unique_ptr.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/this_thread_sleep.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/semaphore \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/semaphore_base.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/chrono.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ratio \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/limits \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ctime \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/parse_numbers.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/atomic_timed_wait.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/this_thread_sleep.h \
+ C:/mingw64/x86_64-w64-mingw32/include/semaphore.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/functional \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/std_function.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/unordered_map \
@@ -176,29 +193,28 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_bvector.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/vector.tcc \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/array \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/compare \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_algo.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/algorithmfwd.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_heap.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/uniform_int_dist.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_tempbuf.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/mutex \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/std_mutex.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/unique_lock.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/condition_variable \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/shared_ptr.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/shared_ptr_base.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/allocated_ptr.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/ext/concurrence.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/align.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/future \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/atomic_futex.h \
- D:/User/Desktop/tmc/tmc/tmc_Socket.hpp \
- D:/User/Desktop/tmc/tmc/tmc_ByteBuf.hpp \
- D:/User/Desktop/tmc/tmc/tmc_ArrBuf.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_Socket.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_ByteBuf.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_ArrBuf.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/cstring \
  C:/mingw64/x86_64-w64-mingw32/include/string.h \
  C:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
- D:/User/Desktop/tmc/tmc/tmc_Result.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_Result.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/sstream \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/sstream.tcc \
  C:/mingw64/x86_64-w64-mingw32/include/winsock2.h \
@@ -447,20 +463,34 @@ CMakeFiles/tmc.dir/main.cpp.obj: D:\User\Desktop\tmc\main.cpp \
  C:/mingw64/x86_64-w64-mingw32/include/psdk_inc/_wsa_errnos.h \
  C:/mingw64/x86_64-w64-mingw32/include/qos.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/chrono \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/chrono_io.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/iomanip \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/locale \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/locale_facets_nonio.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/codecvt.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/locale_facets_nonio.tcc \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/locale_conv.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/quoted_string.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/format \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/charconv \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/optional \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/span \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/variant \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ranges_algobase.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/memory \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/stl_raw_storage_iter.h \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/align.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/shared_ptr_atomic.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward/auto_ptr.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ranges_uninitialized.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/pstl/glue_memory_defs.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/pstl/execution_defs.h \
- D:/User/Desktop/tmc/tmc/tmc_Hive.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_Hive.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/unordered_set \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/unordered_set.h \
- D:/User/Desktop/tmc/tmc/tmc_Bee.hpp \
- D:/User/Desktop/tmc/tmc/tmc_Logger.hpp \
+ D:/User/Desktop/git_proj/tcxocket/tmc/tmc_Bee.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/fstream \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/codecvt.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/fstream.tcc \

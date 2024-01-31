@@ -58,14 +58,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++17"
+					"fragment" : "-g -std=gnu++20"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 4,
-					"path" : "D:/User/Desktop/tmc/tmc"
+					"path" : "D:/User/Desktop/git_proj/tcxocket/tmc"
 				}
 			],
 			"language" : "CXX",
@@ -75,7 +75,7 @@
 				[
 					1
 				],
-				"standard" : "17"
+				"standard" : "20"
 			},
 			"sourceIndexes" : 
 			[

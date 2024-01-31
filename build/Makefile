@@ -56,10 +56,10 @@ RM = "D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\User\Desktop\tmc
+CMAKE_SOURCE_DIR = D:\User\Desktop\git_proj\tcxocket
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\User\Desktop\tmc\build
+CMAKE_BINARY_DIR = D:\User\Desktop\git_proj\tcxocket\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\User\Desktop\tmc\build\CMakeFiles D:\User\Desktop\tmc\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\User\Desktop\git_proj\tcxocket\build\CMakeFiles D:\User\Desktop\git_proj\tcxocket\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\User\Desktop\tmc\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\User\Desktop\git_proj\tcxocket\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

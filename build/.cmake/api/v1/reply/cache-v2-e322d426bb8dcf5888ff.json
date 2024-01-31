@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/User/Desktop/tmc/build"
+			"value" : "d:/User/Desktop/git_proj/tcxocket/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/User/Desktop/tmc/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/User/Desktop/git_proj/tcxocket/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/User/Desktop/tmc"
+			"value" : "D:/User/Desktop/git_proj/tcxocket"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/User/Desktop/tmc/build"
+			"value" : "D:/User/Desktop/git_proj/tcxocket/build"
 		},
 		{
 			"name" : "tmc_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/User/Desktop/tmc"
+			"value" : "D:/User/Desktop/git_proj/tcxocket"
 		}
 	],
 	"kind" : "cache",
