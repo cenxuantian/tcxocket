@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/User/Desktop/tmc/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/tmc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\tmc.dir\\main.cpp.obj -c D:\\User\\Desktop\\tmc\\main.cpp",
+  "file": "D:/User/Desktop/tmc/main.cpp",
+  "output": "CMakeFiles/tmc.dir/main.cpp.obj"
+}
+]

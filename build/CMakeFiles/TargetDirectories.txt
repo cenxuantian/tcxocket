@@ -1,0 +1,3 @@
+D:/User/Desktop/tmc/build/CMakeFiles/tmc.dir
+D:/User/Desktop/tmc/build/CMakeFiles/edit_cache.dir
+D:/User/Desktop/tmc/build/CMakeFiles/rebuild_cache.dir

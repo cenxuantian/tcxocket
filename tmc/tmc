@@ -1,0 +1,18 @@
+// <tmc> -*- C++ -*-
+// tcx message center
+
+
+#ifndef __TMC_INTERFACE__
+#define __TMC_INTERFACE__
+
+// #if __cplusplus < 201703L
+// #error "please use c++17 standard"
+// #endif
+
+#include "tmc_ThreadPool.hpp"    // thread pool with lock free ring buffer queue
+#include "tmc_Socket.hpp"
+#include "tmc_Hive.hpp"
+#include "tmc_Bee.hpp"
+#include "tmc_Logger.hpp"
+
+#endif
